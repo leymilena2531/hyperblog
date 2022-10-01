@@ -27,8 +27,6 @@ body
     font-size: 0.6cm;
 }
 
-
-
 #container 
 {
     width: 70%;
@@ -36,11 +34,22 @@ body
     text-align: left;
     border: 1px solid black;
     margin: 0 auto;
-
-
 }
 
 #container h1
 {
     font-size: 20px;
+}
+
+#post
+{
+    padding: 1cm;
+}
+
+#footer
+{
+    background: rgb(68, 42, 68);
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
 }
